@@ -101,8 +101,8 @@ form button{
         flex-direction: column-reverse;
     }
     header nav form{
-        margin-left: -2%;
-        font-size: 19px;
+        margin-left: 0%;
+        font-size: 17px;
     }
     header nav form .a-div{
       padding-left: 3%;
@@ -113,5 +113,7 @@ form button{
     .p-img{
         margin-top: 35px;
     }
-    
+    .f-c-text{
+        font-size: 8px;
+    }
 } 
